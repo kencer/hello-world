@@ -1,2 +1,2 @@
-# hello-world
-A test repository
+This is a test read me file,
+Kencer here and learning how to use GITHUB
